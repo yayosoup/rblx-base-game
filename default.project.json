@@ -4,25 +4,26 @@
     "$className": "DataModel",
     "$ignoreUnknownInstances": true,
 
-    "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
-      "$path": "src/ReplicatedStorage"
-    },
-
     "ServerScriptService": {
       "$className": "ServerScriptService",
-        "$path": "src/ServerScriptService"
+        "$path": "src/01_ServerScriptService"
     },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src/02_ReplicatedStorage"
+    },
+
+
 
     "StarterPlayer": {
       "$className": "StarterPlayer",
       "StarterCharacterScripts": {
         "$className": "StarterCharacterScripts",
-          "$path": "src/StarterCharacterScripts"
+          "$path": "src/03_StarterCharacterScripts"
       },
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
-          "$path": "src/StarterPlayerScripts"
+          "$path": "src/03_StarterPlayerScripts"
       }
     },
 
