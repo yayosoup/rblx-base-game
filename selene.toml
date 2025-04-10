@@ -1,0 +1,6 @@
+std = "roblox"
+[global]
+allow_globals = true
+
+[rules]
+global_usage = "allow"

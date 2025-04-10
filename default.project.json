@@ -12,18 +12,19 @@
       "$className": "ReplicatedStorage",
       "$path": "src/02_ReplicatedStorage"
     },
-
-
-
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "$path": "src/03_ReplicatedFirst"
+    },
     "StarterPlayer": {
       "$className": "StarterPlayer",
       "StarterCharacterScripts": {
         "$className": "StarterCharacterScripts",
-          "$path": "src/03_StarterCharacterScripts"
+          "$path": "src/04_StarterCharacterScripts"
       },
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
-          "$path": "src/03_StarterPlayerScripts"
+          "$path": "src/05_StarterPlayerScripts"
       }
     },
 
